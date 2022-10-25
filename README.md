@@ -4,6 +4,6 @@ This project contains an interactive dashboard made on Tableau using political v
 
 Following image is a picture of this dashboard.
 
-
+![My Image](Image.jpg.webp)
 
 
