@@ -8,7 +8,7 @@ Following image is a picture of this dashboard.
 
 At a glance, you can see:
 
-Types of political violence in Africa
-Geographical spread of political violence in africa
-Trend of political violence in individual countries
-Actors who perptrate political violence
+1. Types of political violence in Africa
+2. Geographical spread of political violence in africa
+3. Trend of political violence in individual countries
+4. Actors who perptrate political violence
