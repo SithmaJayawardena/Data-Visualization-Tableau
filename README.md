@@ -12,3 +12,6 @@ At a glance, you can see:
 2. Geographical spread of political violence in africa
 3. Trend of political violence in individual countries
 4. Actors who perptrate political violence
+
+The link to this dashboard in Tableau Public is as follows:
+https://public.tableau.com/app/profile/sithma.jayawardena/viz/ACLEDdata_16643786251730/Dashboard1
